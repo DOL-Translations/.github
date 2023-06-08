@@ -1,6 +1,6 @@
 <h1 align="center">GameCube Translation Projects</h1>
 <p align="center">
-    <img width="128" height="128" src="./imgs/logo.png">
+    <img width="128" height="128" src="https://raw.githubusercontent.com/DOL-Translations/.github/main/imgs/logo.png">
 </p>
 
 <table align="center">
