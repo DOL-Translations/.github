@@ -55,3 +55,7 @@
         </tr>
     </tbody>
 </table>
+<h4 align="center">Socials</h4>
+<div align="center">
+    <img src="https://discordapp.com/api/guilds/943334731892805702/widget.png?style=banner2" alt="Discord Banner 2"/>
+</div>
