@@ -53,6 +53,12 @@
                 <a href="https://github.com/DOL-Translations/taxi-3">https://github.com/DOL-Translations/taxi-3</a>
             </td>
         </tr>
+        <tr>
+            <td>VaraNoir Academy: Roses</td>
+            <td>
+                <a href="https://github.com/DOL-Translations/varanoir">https://github.com/DOL-Translations/varanoir</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 <h4 align="center">Socials</h4>
