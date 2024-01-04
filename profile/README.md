@@ -48,6 +48,12 @@
             </td>
         </tr>
         <tr>
+            <td>Mr. Driller: Drill Land</td>
+            <td>
+                <a href="https://github.com/DOL-Translations/drill-land">https://github.com/DOL-Translations/drill-land</a>
+            </td>
+        </tr>
+        <tr>
             <td>Taxi 3: The Game</td>
             <td>
                 <a href="https://github.com/DOL-Translations/taxi-3">https://github.com/DOL-Translations/taxi-3</a>
