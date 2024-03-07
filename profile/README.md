@@ -54,6 +54,12 @@
             </td>
         </tr>
         <tr>
+            <td>Shinseiki GPX Cyber Formula</td>
+            <td>
+                <a href="https://github.com/DOL-Translations/cyber-formula">https://github.com/DOL-Translations/cyber-formula</a>
+            </td>
+        </tr>
+        <tr>
             <td>Taxi 3: The Game</td>
             <td>
                 <a href="https://github.com/DOL-Translations/taxi-3">https://github.com/DOL-Translations/taxi-3</a>
