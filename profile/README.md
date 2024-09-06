@@ -54,6 +54,12 @@
             </td>
         </tr>
         <tr>
+            <td>Nintendo Puzzle Collection</td>
+            <td>
+                <a href="https://github.com/DOL-Translations/puzzle-collection">https://github.com/DOL-Translations/puzzle-collection</a>
+            </td>
+        </tr>
+        <tr>
             <td>Shinseiki GPX Cyber Formula</td>
             <td>
                 <a href="https://github.com/DOL-Translations/cyber-formula">https://github.com/DOL-Translations/cyber-formula</a>
