@@ -3,79 +3,81 @@
     <img width="128" height="128" src="https://raw.githubusercontent.com/DOL-Translations/.github/main/imgs/logo.png">
 </p>
 
+<h4 align="right">Legend</h4>
+<table align="right">
+<thead>
+        <tr>
+            <th>Symbol</th>
+            <th>Meaning</th>
+        </tr>
+        <tbody>
+        <tr>
+            <td align="center">🛑</td>
+            <td>Inactive</td>
+        </tr>
+        <tr>
+            <td align="center">☑</td>
+            <td>Active</td>
+        </tr>
+        <tr>
+            <td align="center">✅</td>
+            <td>Complete</td>
+        </tr>
+        </tbody>
+    </thead>
+</table>
+
 <table align="center">
     <thead>
         <tr>
             <th>Game</th>
-            <th>Repository</th>
+            <th>Status</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Donkey Konga 3</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/donkey-konga-3">https://github.com/DOL-Translations/donkey-konga-3</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/donkey-konga-3">Donkey Konga 3</a></td>
+            <td align="center">☑</td>
         </tr>
         <tr>
-            <td>Giftpia</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/giftpia">https://github.com/DOL-Translations/giftpia</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/giftpia">Giftpia</a></td>
+            <td align="center">🛑</td>
         </tr>
         <tr>
-            <td>HomeLand</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/homeland">https://github.com/DOL-Translations/homeland</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/homeland">HomeLand</a></td>
+            <td align="center">🛑</td>
         </tr>
         <tr>
-            <td>Kururin Squash!</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/kururin-squash">https://github.com/DOL-Translations/kururin-squash</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/kururin-squash">Kururin Squash!</a></td>
+            <td align="center">✅</td>
         </tr>
         <tr>
-            <td>Lupin III: Umi ni Kieta Hihou</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/lupin-III">https://github.com/DOL-Translations/lupin-III</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/lupin-III">Lupin III: Umi ni Kieta Hihou</a></td>
+            <td align="center">✅</td>
         </tr>
         <tr>
-            <td>Metal Gear Solid Special Disc</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/mgs-special-disc">https://github.com/DOL-Translations/mgs-special-disc</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/mgs-special-disc">Metal Gear Solid Special Disc</a></td>
+            <td align="center">✅</td>
         </tr>
         <tr>
-            <td>Mr. Driller: Drill Land</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/drill-land">https://github.com/DOL-Translations/drill-land</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/drill-land">Mr. Driller: Drill Land</a></td>
+            <td align="center">☑</td>
         </tr>
         <tr>
-            <td>Nintendo Puzzle Collection</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/puzzle-collection">https://github.com/DOL-Translations/puzzle-collection</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/puzzle-collection">Nintendo Puzzle Collection</a></td>
+            <td align="center">☑</td>
         </tr>
         <tr>
-            <td>Shinseiki GPX Cyber Formula</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/cyber-formula">https://github.com/DOL-Translations/cyber-formula</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/cyber-formula">Shinseiki GPX Cyber Formula</a></td>
+            <td align="center">🛑</td>
         </tr>
         <tr>
-            <td>Taxi 3: The Game</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/taxi-3">https://github.com/DOL-Translations/taxi-3</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/taxi-3">Taxi 3: The Game</a></td>
+            <td align="center">✅</td>
         </tr>
         <tr>
-            <td>VaraNoir Academy: Roses</td>
-            <td>
-                <a href="https://github.com/DOL-Translations/varanoir">https://github.com/DOL-Translations/varanoir</a>
-            </td>
+            <td><a href="https://github.com/DOL-Translations/varanoir">VaraNoir Academy: Roses</a></td>
+            <td align="center">🛑</td>
         </tr>
     </tbody>
 </table>
