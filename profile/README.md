@@ -69,7 +69,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/cyber-formula">Shinseiki GPX Cyber Formula</a></td>
-            <td align="center">🛑</td>
+            <td align="center">✅</td>
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/taxi-3">Taxi 3: The Game</a></td>
