@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/homeland">HomeLand</a></td>
-            <td align="center">🛑</td>
+            <td align="center">☑</td>
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/kururin-squash">Kururin Squash!</a></td>
