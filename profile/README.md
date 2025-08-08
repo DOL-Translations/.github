@@ -40,6 +40,10 @@
             <td align="center">☑</td>
         </tr>
         <tr>
+            <td><a href="https://github.com/DOL-Translations/goc-exceed">Generation of Chaos Exceed: Yami no Miko Rose</a></td>
+            <td align="center">☑</td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/DOL-Translations/giftpia">Giftpia</a></td>
             <td align="center">🛑</td>
         </tr>
