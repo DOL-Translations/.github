@@ -65,7 +65,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/drill-land">Mr. Driller: Drill Land</a></td>
-            <td align="center">☑</td>
+            <td align="center">✅</td>
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/puzzle-collection">Nintendo Puzzle Collection</a></td>
