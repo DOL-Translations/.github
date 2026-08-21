@@ -41,7 +41,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/goc-exceed">Generation of Chaos Exceed: Yami no Miko Rose</a></td>
-            <td align="center">☑</td>
+            <td align="center">🛑</td>
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/giftpia">Giftpia</a></td>
@@ -73,7 +73,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/puzzle-collection">Nintendo Puzzle Collection</a></td>
-            <td align="center">☑</td>
+            <td align="center">🛑</td>
         </tr>
         <tr>
             <td><a href="https://github.com/DOL-Translations/cyber-formula">Shinseiki GPX Cyber Formula</a></td>
