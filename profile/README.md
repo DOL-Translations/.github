@@ -68,6 +68,10 @@
             <td align="center">✅</td>
         </tr>
         <tr>
+            <td><a href="https://github.com/DOL-Translations/muscle-champion">Muscle Champion: Kinnikutou Kessen</a></td>
+            <td align="center">☑</td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/DOL-Translations/puzzle-collection">Nintendo Puzzle Collection</a></td>
             <td align="center">☑</td>
         </tr>
